@@ -1,0 +1,17 @@
+.col-md-3{
+	border: 1px solid grey;
+	background-color: lightgrey;
+
+}
+.col-md-12{
+	background-color: grey;
+}
+.col-md-6{
+	border: 1px solid grey;
+	background-color: lightgrey;
+
+}
+.col-orange{
+	background-color: orange;
+	color: white;
+}	
